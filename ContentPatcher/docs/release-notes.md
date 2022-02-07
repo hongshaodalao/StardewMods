@@ -9,6 +9,9 @@ When releasing a format change, don't forget to update the smapi.io/json schema!
 
 
 -->
+## Upcoming release for Stardew Valley 1.6
+* Updated for Stardew Valley 1.6.
+
 ## Upcoming release
 * Further performance optimizations.
 * Fixed config UI dropdown values no longer matching order listed in `ConfigSchema`.
